@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Oviya S | Portfolio</title>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            color: #070707;
+        }
+
+        header {
+            background-color: #030303;
+            color: white;
+            text-align: center;
+            padding: 30px;
+        }
+
+        header h1 {
+            margin: 0;
+        }
+
+        header p {
+            margin-top: 5px;
+        }
+
+        .container {
+            width: 90%;
+            max-width: 900px;
+            margin: 20px auto;
+        }
+
+        .card {
+            background-color: white;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+        }
+
+        h2 {
+            color: #333;
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 5px;
+        }
+
+        ul {
+            padding-left: 20px;
+           
+        }
+        li {
+            margin-bottom: 8px;
+        }
+
+       
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Oviya S</h1>
+        <h3>Computer Science Student</h3>
+    </header>
+
+    <div class="container">
+
+        <div class="card">
+            <h2>About Me</h2>
+            <p>
+                I am a Computer Science student interested in learning
+                programming and web development. I enjoy improving my
+                technical and problem-solving skills.
+            </p>
+        </div>
+
+        <div class="card">
+            <h2>Education</h2>
+            <p><strong>B.E. Computer Science and Engineering</strong></p>
+            <p>Batch: 2024 – 2028</p>
+            <p>CGPA: 8.23</p>
+        </div>
+
+        <div class="card">
+            <h2>Skills</h2>
+            <ul>
+                <li>HTML & CSS</li>
+                <li>C,Java</li>
+                <li>Data structures </li>
+                <li>Problem Solving</li>
+            </ul>
+        </div>
+
+        <div class="card">
+            <h2>Certifications / Achievements</h2>
+            <ul>
+                <li>Orcle cloud Certifications</li>
+                <li>Academic Mini Projects</li>
+                <li>Solved 50+ leetcode problems</li>
+            </ul>
+        </div>
+
+        <div class="card">
+            <h2>Contact</h2>
+            <p>Email: oviyas.cs24@bitsathy.ac.in</p>
+            <p>GitHub: https://github.com/</p>
+            <p>LinkedIn: https://www.linkedin.com/</p>
+        </div>
+
+</body>
+</html>
